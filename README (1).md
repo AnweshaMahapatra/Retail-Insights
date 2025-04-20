@@ -1,4 +1,4 @@
-# My Sql codes
+# My Sql codes-for business questions
 
 
 ## For 1st Business Question 
